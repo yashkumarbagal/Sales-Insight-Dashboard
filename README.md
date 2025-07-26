@@ -19,3 +19,5 @@ The goal of this project is to analyze and visualize sales data using Power BI. 
 - Monthly Trends
 - Product Performance
 - Customer Segmentation
+
+
