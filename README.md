@@ -1,7 +1,7 @@
 # Sales-Insight-Dashboard
 Sales Dashboard project using SQL and Power BI, inspired by Codebasics. It visualizes key metrics like revenue and profit for business insights.
 
-# 📊 1.-Sales-Insight-Dashboard
+# 📊 Sales-Insight-Dashboard
 
 This repository contains a **Sales Dashboard** project created using **Power BI** and **SQL**, inspired by the tutorials from [Codebasics]. 
 It visualizes key metrics like **total revenue, profit, customer segmentation**, and **product performance** for powerful business insights.
